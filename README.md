@@ -10,4 +10,4 @@ https://3ds.pokemon-gl.com/battle/usum/
 
 ↓
 
-![]("output.png")
+![](output.png)
