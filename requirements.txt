@@ -11,5 +11,5 @@ requests==2.18.4
 selene==1.0.0a13
 selenium==3.8.1
 six==1.11.0
-urllib3==1.22
+urllib3==1.24.2
 webdriver-manager==1.5.1
