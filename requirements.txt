@@ -6,7 +6,7 @@ configparser==3.5.0
 crayons==0.1.2
 future==0.16.0
 idna==2.6
-Pillow==5.0.0
+Pillow==9.0.0
 requests==2.18.4
 selene==1.0.0a13
 selenium==3.8.1
